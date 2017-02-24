@@ -1,4 +1,4 @@
-package com.codeconsole.gmapmarker;
+package com.codeconsole.gmapmarker.Activity;
 
 import android.Manifest;
 import android.content.DialogInterface;
@@ -13,6 +13,8 @@ import android.support.annotation.RequiresApi;
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
+
+import com.codeconsole.gmapmarker.R;
 
 public class LauncherActivity extends AppCompatActivity {
 
